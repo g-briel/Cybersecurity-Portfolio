@@ -9,7 +9,7 @@ I synthesize a professional background in International Relations and strategic 
 * **Security Operations:** Incident Triage, Defensive Workflows, NIST Incident Response & MITRE ATT&CK Frameworks, Access Control Lists (ACL).
 * **Technical Skills:** Python Scripting, File Operations/I/O, Linux Core Commands, SQL Querying, Data Analysis.
 * **Strategic & Analytical:** Geopolitical Threat Actor Profiling, Supply Chain Risk Assessment, Advanced Persistent Threats (APTs) Analysis, Executive Briefing.
-* **Core Education:** CompTIA Security+ (Ongoing) | Google Cybersecurity Specialization | B.A. in International Relations | M.B.A. in Executive in Foreign Trade Management
+* **Core Education:** CompTIA Security+ | Google Cybersecurity Specialization | B.A. in International Relations | M.B.A. in Executive in Foreign Trade Management
 
 ---
 
